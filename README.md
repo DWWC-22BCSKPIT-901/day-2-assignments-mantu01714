@@ -72,14 +72,3 @@ Distribute jobs among workers to minimize the maximum time required to finish al
 Write a program that:
 1. Accepts an array of job durations and the number of workers.
 2. Returns the minimum time required to complete all jobs.
-
----
-
-### Usage
-Each problem is implemented in a separate file, with detailed comments for better understanding. To run the programs, compile or execute them using the respective programming language's tools.
-
-### Contribution
-Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements, bug fixes, or additional solutions.
-
-### License
-This repository is licensed under the MIT License.
